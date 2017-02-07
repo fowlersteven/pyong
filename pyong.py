@@ -38,7 +38,7 @@ LSTICK = 1
 RSTICK = 5
 BALLSPEED = 5
 
-# TODO: Class for paddle
+# Class for paddle
 class Paddle:
     """Pong Paddle"""
     def __init__(self, size, gamesize):
@@ -191,7 +191,7 @@ class JoystickHandler:
 
 
 
-# TODO: Game logic
+# Game logic
 class PongGame:
     """
     Pong Game Logic class
